@@ -1,0 +1,1 @@
+echo "Hello!We are testing shared library"
