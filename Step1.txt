@@ -1,1 +1,3 @@
-echo "Hello!We are testing shared library"
+node {
+   echo 'Hello World'
+}
